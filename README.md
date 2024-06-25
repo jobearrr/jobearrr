@@ -13,8 +13,6 @@ I'm an iOS engineer who loves to build things that can help our lives. I'm happy
 
 Please don't hesitate to ask any questions about me or the work you see here. Or, say hi, tell me about your greatest coding success this year, or send me a pet photo!  
 
-I can be found on [LinkedIn](https://www.linkedin.com/in/jobertsa/), [Instagram](https://www.instagram.com/jobertsa/), [Mastodon](https://mastodon.social/@jobear), and on [Twitter](https://twitter.com/jobertsa). 😀
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jobertsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jobertsa" height="30" width="40" /></a>
