@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jobert - you pronounce like jo-bear (yes, a bear 🐻) - he/him/his
+My name is Jobert - you pronounce it as jo-bear (yes, a bear 🐻) - he/him/his
 
 I'm an iOS engineer who loves to build things that can help our lives. I'm happy to be building for Apple platforms in this great community, and in love with Swift since 2014 ❤️
 
