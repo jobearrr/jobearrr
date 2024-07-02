@@ -4,11 +4,11 @@ My name is Jobert - you pronounce like jo-bear (yes, a bear 🐻) - he/him/his
 
 I'm an iOS engineer who loves to build things that can help our lives. I'm happy to be building for Apple platforms in this great community, and in love with Swift since 2014 ❤️
 
-- 🔭 Currently working on [**HUDHero**](https://github.com/jobearrr/HUDHero) project
+- 🔭 Currently working on [**HUDHero**](https://github.com/jobearrr/HUDHero) and [**LeetSwift**](https://github.com/jobearrr/LeetSwift)
 - 💪 Contributing to other projects, such as [Ignite](https://github.com/twostraws/Ignite) and [GitHub Explore](https://github.com/github/explore)
 - 📖 Always learning - I’m currently catching up with **Swift 6, the latest iOS, macOS, watchOS, visionOS SDKs**
 - 📝 I regularly write articles on [https://jobear.dev/](https://jobear.dev/)
-- 🤝 Waiting for your PR into HUDHero, and other projects I am currently working on
+- 🤝 Waiting for your PR into HUDHero, LeetSwift, and other projects I am currently working on
 - 💬 I’m always ready to help, find me on *Telegram* @jobertsa
 
 Please don't hesitate to ask any questions about me or the work you see here. Or, say hi, tell me about your greatest coding success this year, or send me a pet photo!  
