@@ -9,7 +9,6 @@ I'm an iOS engineer who loves to build things that can help our lives. I'm happy
 - 📖 Always learning - I’m currently catching up with **Swift 6, the latest iOS, macOS, watchOS, visionOS SDKs**
 - 📝 I regularly write articles on [jobear.dev][blog-url]
 - 🤝 Waiting for your PR into HUDHero, LeetSwift, and other projects I am currently working on
-- 💬 I’m always ready to help, find me on *Telegram* @jobertsa
 
 Please don't hesitate to ask any questions about me or the work you see here. Or, say hi, tell me about your greatest coding success this year, or send me a pet photo!  
 
