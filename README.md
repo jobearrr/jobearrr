@@ -11,7 +11,7 @@ I'm a seasoned iOS engineer who loves to build things that can help our lives.
 I'm happy to be building for Apple platforms in this great community, and in love with Swift since 2014 ❤️
 - 📖 Always learning - I’m currently catching up with **Swift 6, the latest iOS, macOS, watchOS, visionOS SDKs**
 - 📝 I regularly write articles on [jobear.dev][blog-url]
-- 🤝 Waiting for your PR into the project I maintain
+- 🤝 Waiting for your PRs into the projects I maintain
 
 Feel free to contact may you have any questions - or, just say hi, tell me about your greatest coding success this year, or send me a pet photo! 🐶🐱
 
