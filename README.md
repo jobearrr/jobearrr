@@ -17,8 +17,8 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 ### 🔭 Projects I created and maintain
 | Project | Statuses |
 | --- | --- |
-| [**HUDHero**][hudhero-url] | [![Size][hudhero-size-shield]][hudhero-url] [![Top Language][hudhero-top-language-shield]][hudhero-url] [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
-| [**LeetSwift**][leetswift-url] | [![Size][leetswift-size-shield]][hudhero-url] [![Top Language][leetswift-top-language-shield]][leetswift-url] [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
+| [**HUDHero**][hudhero-url] | [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
+| [**LeetSwift**][leetswift-url] | [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
 
 ### 💪 Projects I contribute to
 | Project | Statuses | My contributions
@@ -39,8 +39,6 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 [stackoverflow-url]: https://stackoverflow.com/users/564532/
 
 [hudhero-url]: https://github.com/jobearrr/HUDHero
-[hudhero-size-shield]: https://img.shields.io/github/repo-size/jobearrr/HUDHero
-[hudhero-top-language-shield]: https://img.shields.io/github/languages/top/jobearrr/HUDHero
 [hudhero-stars-shield]: https://img.shields.io/github/stars/jobearrr/HUDHero
 [hudhero-watchers-shield]: https://img.shields.io/github/watchers/jobearrr/HUDHero
 [hudhero-issues-shield]: https://img.shields.io/github/issues/jobearrr/HUDHero
@@ -51,8 +49,6 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 [hudhero-ci-status-url]: https://github.com/jobearrr/HUDHero/actions/workflows/main.yml
 
 [leetswift-url]: https://github.com/jobearrr/LeetSwift
-[leetswift-size-shield]: https://img.shields.io/github/repo-size/jobearrr/LeetSwift
-[leetswift-top-language-shield]: https://img.shields.io/github/languages/top/jobearrr/LeetSwift
 [leetswift-stars-shield]: https://img.shields.io/github/stars/jobearrr/LeetSwift
 [leetswift-watchers-shield]: https://img.shields.io/github/watchers/jobearrr/LeetSwift
 [leetswift-issues-shield]: https://img.shields.io/github/issues/jobearrr/LeetSwift
