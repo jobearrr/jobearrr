@@ -67,7 +67,7 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 [ignite-top-language-shield]: https://img.shields.io/github/languages/top/twostraws/Ignite
 [ignite-stars-shield]: https://img.shields.io/github/stars/twostraws/Ignite
 [ignite-watchers-shield]: https://img.shields.io/github/watchers/twostraws/Ignite
-[ignite-contributions-shield]: https://img.shields.io/badge/jobearrr_commits-4-8a2be2?style=flat&logo=github&logoColor=white
+[ignite-contributions-shield]: https://img.shields.io/badge/Commits-4-8a2be2?style=flat&logo=github&logoColor=white
 [ignite-contributions-url]: https://github.com/twostraws/Ignite/commits?author=jobearrr
 
 
@@ -76,5 +76,5 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 [explore-top-language-shield]: https://img.shields.io/github/languages/top/github/explore
 [explore-stars-shield]: https://img.shields.io/github/stars/github/explore
 [explore-watchers-shield]: https://img.shields.io/github/watchers/github/explore
-[explore-contributions-shield]: https://img.shields.io/badge/jobearrr_commits-7-8a2be2?style=flat&logo=github&logoColor=white
+[explore-contributions-shield]: https://img.shields.io/badge/Commits-7-8a2be2?style=flat&logo=github&logoColor=white
 [explore-contributions-url]: https://github.com/github/explore/commits?author=jobearrr
