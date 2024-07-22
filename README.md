@@ -1,5 +1,5 @@
 ## Hey there!👋 Jobert here!
-###### it's pronounced as "jo-bear" (yes, a bear 🐻) - he/him/his
+###### Oh, it's pronounced like "jo-bear" (yes, a bear 🐻)
 [![Blog][blog-shield]][blog-url]
 [![Email][email-shield]][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
