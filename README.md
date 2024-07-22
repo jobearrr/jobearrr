@@ -15,13 +15,13 @@ I'm happy to be building for Apple platforms in this great community, and in lov
 Feel free to contact may you have any questions - or, just say hi, tell me about your greatest coding success this year, or send me a pet photo! 🐶🐱
 
 ### 🔭 Projects I created and maintain
-| Project | Statuses |
+| Project | Status |
 | --- | --- |
 | [**`🦸 HUDHero`**][hudhero-url] | [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
 | [**`🧮 LeetSwift`**][leetswift-url] | [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
 
 ### 💪 Projects I contribute to
-| Project | Statuses | My contributions
+| Project | Status | My contributions
 | --- | --- | --- |
 | [**Ignite**][ignite-url] | [![Size][ignite-size-shield]][ignite-url] [![Top Language][ignite-top-language-shield]][ignite-url] [![Stars][ignite-stars-shield]][ignite-url] [![Watchers][ignite-watchers-shield]][ignite-url] | [![Contributions][ignite-contributions-shield]][ignite-contributions-url] |
 | [**GitHub Explore**][explore-url] | [![Size][explore-size-shield]][explore-url] [![Top Language][explore-top-language-shield]][explore-url] [![Stars][explore-stars-shield]][explore-url] [![Watchers][explore-watchers-shield]][explore-url] | [![Contributions][explore-contributions-shield]][explore-contributions-url] |
