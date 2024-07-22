@@ -17,8 +17,8 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 ### 🔭 Projects I created and maintain
 | Project | Statuses |
 | --- | --- |
-| [**HUDHero**][hudhero-url] | [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
-| [**LeetSwift**][leetswift-url] | [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
+| [**`🦸 HUDHero`**][hudhero-url] | [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
+| [**`🧮 LeetSwift`**][leetswift-url] | [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
 
 ### 💪 Projects I contribute to
 | Project | Statuses | My contributions
