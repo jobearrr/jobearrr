@@ -19,6 +19,7 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 | --- | --- |
 | [**`🦸 HUDHero`**][hudhero-url] | [![Open Issues][hudhero-issues-shield]][hudhero-issues-url] [![Last commit][hudhero-last-commit-shield]][hudhero-last-commit-url] [![CI Status][hudhero-ci-status-shield]][hudhero-ci-status-url] [![Stars][hudhero-stars-shield]][hudhero-url] [![Watchers][hudhero-watchers-shield]][hudhero-url] |
 | [**`🧮 LeetSwift`**][leetswift-url] | [![Open Issues][leetswift-issues-shield]][leetswift-issues-url] [![Last commit][leetswift-last-commit-shield]][leetswift-last-commit-url] [![CI Status][leetswift-ci-status-shield]][leetswift-ci-status-url] [![Stars][leetswift-stars-shield]][leetswift-url] [![Watchers][leetswift-watchers-shield]][leetswift-url] |
+| [**`⏳ Time Swap`**][timeswap-url] | [![Open Issues][timeswap-issues-shield]][timeswap-issues-url] [![Last commit][timeswap-last-commit-shield]][timeswap-last-commit-url] [![CI Status][timeswap-ci-status-shield]][timeswap-ci-status-url] [![Stars][timeswap-stars-shield]][timeswap-url] [![Watchers][timeswap-watchers-shield]][timeswap-url] |
 
 ### 💪 Projects I contribute to
 | Project | Status | My contributions
@@ -57,6 +58,16 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 [leetswift-last-commit-url]: https://github.com/jobearrr/LeetSwift/commits/master
 [leetswift-ci-status-shield]: https://github.com/jobearrr/LeetSwift/actions/workflows/ci.yml/badge.svg
 [leetswift-ci-status-url]: https://github.com/jobearrr/LeetSwift/actions/workflows/ci.yml
+
+[timeswap-url]: https://github.com/jobearrr/time-swap
+[timeswap-stars-shield]: https://img.shields.io/github/stars/jobearrr/time-swap
+[timeswap-watchers-shield]: https://img.shields.io/github/watchers/jobearrr/time-swap
+[timeswap-issues-shield]: https://img.shields.io/github/issues/jobearrr/time-swap
+[timeswap-issues-url]: https://github.com/jobearrr/time-swap/issues
+[timeswap-last-commit-shield]: https://img.shields.io/github/last-commit/jobearrr/time-swap?style=flat
+[timeswap-last-commit-url]: https://github.com/jobearrr/time-swap/commits/master
+[timeswap-ci-status-shield]: https://github.com/jobearrr/time-swap/actions/workflows/static.yml/badge.svg
+[timeswap-ci-status-url]: https://github.com/jobearrr/time-swap/actions/workflows/static.yml
 
 [ignite-url]: https://github.com/twostraws/Ignite
 [ignite-size-shield]: https://img.shields.io/github/repo-size/twostraws/Ignite
