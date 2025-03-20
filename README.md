@@ -1,4 +1,4 @@
-## Hey there!👋 Jobert here!
+## Hey there! 👋 Jobert here!
 ###### Oh, it's pronounced like "jo-bear" (yes, a bear 🐻)
 <!-- ***NEEDS UPDATE***
 [![Blog][blog-shield]][blog-url]
