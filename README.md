@@ -1,19 +1,25 @@
 ## Hey there!👋 Jobert here!
 ###### Oh, it's pronounced like "jo-bear" (yes, a bear 🐻)
+<!-- ***NEEDS UPDATE***
 [![Blog][blog-shield]][blog-url]
 [![Email][email-shield]][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![X][x-shield]][x-url]
 [![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
+-->
+I've been working with software development since 2010.  
+I'm mainly an iOS developer, and I'm involved in crafting intuitive and high-performance mobile applications using Swift.
 
-I'm a seasoned iOS engineer who loves to build things that can help our lives.  
-I'm happy to be building for Apple platforms in this great community, and in love with Swift since 2014 ❤️
-- 📖 Always learning - I’m currently catching up with **Swift 6, the latest iOS, macOS, watchOS, visionOS SDKs**
-- 📝 I regularly write articles on [jobear.dev][blog-url]
-- 🤝 Waiting for your PRs into the projects I maintain
+A few other things I'm currently doing:
+- working at [Volvo Cars](https://github.com/volvo-cars)
+- mentoring at [ADPList](https://adplist.org/mentors/jobert-sa)
+- writing articles and solving problems at [jobear.dev](https://jobear.dev)
+- building a strong and constructive [Swift community](https://www.linkedin.com/groups/8119756)
+- answering your technical questions at [Stackoverflow](https://stackoverflow.com/users/564532)
 
-Feel free to contact may you have any questions - or, just say hi, tell me about your greatest coding success this year, or send me a pet photo! 🐶🐱
+Feel free to contact may you have any questions - or, just say hi, tell me a story about yourself, or send me a pet photo! 🐶🐱
 
+<!-- ***NEEDS UPDATE***
 ### 🔭 Projects I created and maintain
 | Project | Status |
 | --- | --- |
@@ -26,6 +32,7 @@ Feel free to contact may you have any questions - or, just say hi, tell me about
 | [**Ignite**][ignite-url] | [![Size][ignite-size-shield]][ignite-url] [![Top Language][ignite-top-language-shield]][ignite-url] [![Stars][ignite-stars-shield]][ignite-url] [![Watchers][ignite-watchers-shield]][ignite-url] | [![Contributions][ignite-contributions-shield]][ignite-contributions-url] |
 | [**GitHub Explore**][explore-url] | [![Size][explore-size-shield]][explore-url] [![Top Language][explore-top-language-shield]][explore-url] [![Stars][explore-stars-shield]][explore-url] [![Watchers][explore-watchers-shield]][explore-url] | [![Contributions][explore-contributions-shield]][explore-contributions-url] |
 | [**UTM**][utm-url] | [![Size][utm-size-shield]][utm-url] [![Top Language][utm-top-language-shield]][utm-url] [![Stars][utm-stars-shield]][utm-url] [![Watchers][utm-watchers-shield]][utm-url] | [![Contributions][utm-contributions-shield]][utm-contributions-url] |
+-->
 
 <!-- Markdown references https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [blog-shield]: https://img.shields.io/badge/jobear.dev-333.svg?logo=data:image/png;base64,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
