@@ -17,8 +17,6 @@ A few other things I'm currently doing:
 - building a strong and constructive [Swift community](https://www.linkedin.com/groups/8119756)
 - answering your technical questions at [Stackoverflow](https://stackoverflow.com/users/564532)
 
-Feel free to contact may you have any questions - or, just say hi, tell me a story about yourself, or send me a pet photo! 🐶🐱
-
 <!-- ***NEEDS UPDATE***
 ### 🔭 Projects I created and maintain
 | Project | Status |
