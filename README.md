@@ -18,12 +18,12 @@ If you know or maintain projects like this—especially open source—let’s co
 
 ---
 
-A few other things I'm currently doing:
-- working at [Volvo Cars](https://github.com/volvo-cars)
-- mentoring at [ADPList](https://adplist.org/mentors/jobert-sa)
-- writing articles and solving problems at [jobear.dev](https://jobear.dev)
-- building a strong and constructive [Swift community](https://www.linkedin.com/groups/8119756)
-- answering your technical questions at [Stackoverflow](https://stackoverflow.com/users/564532)
+### Things I'm Involved In
+- **Working at [Volvo Cars](https://github.com/volvo-cars):** Building next-generation automotive software.
+- **Mentoring on [ADPList](https://adplist.org/mentors/jobert-sa):** Helping other developers find their path in tech.
+- **Writing at [jobear.dev](https://jobear.dev):** Sharing articles and solutions on development topics.
+- **Growing the [Swift community](https://www.linkedin.com/groups/8119756):** Connecting developers to learn and collaborate.
+- **Answering questions on [Stack Overflow](https://stackoverflow.com/users/564532):** Supporting the developer community by sharing knowledge.
 
 <!-- ***NEEDS UPDATE***
 ### 🔭 Projects I created and maintain
