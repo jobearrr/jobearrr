@@ -14,16 +14,16 @@ I've been working in software development since 2010, with a main focus on build
 
 I'm interested in building software that cares about user privacy and is developed with strong ethical values. I think technology should help people without taking away their rights or freedom. That's why I’m always looking for open source projects that support privacy, ethics, and transparency.
 
-If you know or maintain projects like this—especially open source—let’s connect! I’d love to contribute.
+If you know or maintain projects like this — especially open source — let’s connect! I’d love to contribute.
 
 ---
 
 ### Things I'm Involved In
-- **Working at [Volvo Cars](https://github.com/volvo-cars):** Building next-generation automotive software.
-- **Mentoring on [ADPList](https://adplist.org/mentors/jobert-sa):** Helping other developers find their path in tech.
-- **Writing at [jobear.dev](https://jobear.dev):** Sharing articles and solutions on development topics.
-- **Growing the [Swift community](https://www.linkedin.com/groups/8119756):** Connecting developers to learn and collaborate.
-- **Answering questions on [Stack Overflow](https://stackoverflow.com/users/564532):** Supporting the developer community by sharing knowledge.
+- **Working at [Volvo Cars][github-volvocars]**, building next-generation automotive software.
+- **Mentoring on [ADPList][adplist-url]**, helping other developers find their path in tech.
+- **Writing at [jobear.dev][blog-url]**, sharing articles and solutions on development topics.
+- **Growing the [Swift community][linkedin-swift-url]**, connecting developers to learn and collaborate.
+- **Answering questions on [Stack Overflow][stackoverflow-url]**, supporting the developer community by sharing knowledge.
 
 <!-- ***NEEDS UPDATE***
 ### 🔭 Projects I created and maintain
@@ -47,10 +47,13 @@ If you know or maintain projects like this—especially open source—let’s co
 [email-url]: mailto:bearinmind@jobear.dev
 [linkedin-shield]: https://img.shields.io/badge/-jobertsa-0072b1?style=flat&logo=Linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/jobertsa/
+[linkedin-swift-url]: https://www.linkedin.com/groups/8119756
 [x-shield]: https://img.shields.io/badge/-jobertsa-222?style=flat&logo=x&logoColor=white
 [x-url]: https://x.com/jobertsa
 [stackoverflow-shield]: https://img.shields.io/stackexchange/stackoverflow/r/564532?style=flat&logo=stack-overflow&logoColor=white
 [stackoverflow-url]: https://stackoverflow.com/users/564532/
+[adplist-url]: https://adplist.org/mentors/jobert-sa
+[github-volvocars]: https://github.com/volvo-cars
 
 [hudhero-url]: https://github.com/jobearrr/HUDHero
 [hudhero-stars-shield]: https://img.shields.io/github/stars/jobearrr/HUDHero
