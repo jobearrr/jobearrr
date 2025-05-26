@@ -6,8 +6,7 @@
 [![X][x-shield]][x-url]
 [![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
 -->
-I've been working with software development since 2010.  
-I'm mainly an iOS developer, and I'm involved in crafting intuitive and high-performance mobile applications using Swift.
+I've been working in software development since 2010, with a main focus on building intuitive, high-performance mobile applications for iOS using Swift. I also have a strong interest in application security and enjoy learning about and implementing best practices to keep users safe. Outside of work, I like to mentor other developers and regularly contribute to open source projects.
 
 ---
 
