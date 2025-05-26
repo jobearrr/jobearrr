@@ -9,6 +9,16 @@
 I've been working with software development since 2010.  
 I'm mainly an iOS developer, and I'm involved in crafting intuitive and high-performance mobile applications using Swift.
 
+---
+
+### What I'm Interested In
+
+I'm interested in building software that cares about user privacy and is developed with strong ethical values. I think technology should help people without taking away their rights or freedom. That's why I’m always looking for open source projects that support privacy, ethics, and transparency.
+
+If you know or maintain projects like this—especially open source—let’s connect! I’d love to contribute.
+
+---
+
 A few other things I'm currently doing:
 - working at [Volvo Cars](https://github.com/volvo-cars)
 - mentoring at [ADPList](https://adplist.org/mentors/jobert-sa)
