@@ -7,8 +7,7 @@ I've been working in software development since 2010, with a main focus on build
 
 I'm interested in building software that cares about user privacy and is developed with strong ethical values. I think technology should help people without taking away their rights or freedom. That's why I’m always looking for open source projects that support privacy, ethics, and transparency.
 
-Moreover, I've been recently trying to move towards DeGoogling all things that concern my privacy, and move away from "big tech" companies - or at least reduce their dependency, although I cannot do it 100%.  
-I'm so tired of all of this ~ʇᴉɥs~, enough is engough!
+Moreover, I've been recently trying to move towards DeGoogling all things that concern my privacy, and move away from "big tech" companies.
 
 If you know or maintain projects like this (especially open source) let’s connect! I’d love to contribute.
 
